@@ -6,7 +6,7 @@
 -Diretor da Associação Acadêmica de Sistemas de Informação.
 <div>
   <h2>Currently working with</h2>
-  <img align="center" alt="Alvaro-react" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg">
   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg">
    <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
 </div>
