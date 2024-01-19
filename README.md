@@ -8,7 +8,7 @@
   <h2>Currently working with</h2>
   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://icons8.com/icon/112751/mysql">
+   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <div style="display: inline_block">
   <h2>Languages</h2>
