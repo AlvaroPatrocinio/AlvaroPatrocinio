@@ -6,19 +6,19 @@
 -Diretor da Associação Acadêmica de Sistemas de Informação.
 <div>
   <h2>Currently working with</h2>
-  <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg">
-   <img align="center" alt="Alvaro-react" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Alvaro-ubuntu" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Alvaro-grafan" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg">
+   <img align="center" alt="Alvaro-mysql" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <div style="display: inline_block">
   <h2>Languages</h2>
   <div>
   <img align="center" alt="Alvaro-Cplusplus" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-line.svg">
+     <img align="center" alt="Alvaro-Java" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
+     <img align="center" alt="Alvaro-Py" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
     </div>
  
   <div>
-  <img align="center" alt="Alvaro-Java" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
-     <img align="center" alt="Alvaro-Py" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
   </div> 
   <br>
   <div>
