@@ -25,6 +25,7 @@
   <h2>Learning</h2>
 </div>
  <img align="center" alt="Alvaro-psql" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg">
 </div>
 </div>
 <div style="display: inline_block">
