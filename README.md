@@ -3,7 +3,7 @@
 -21 Anos<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
 -Analista de Suporte.<br>
--Diretor da Associação Acadêmica de Sistemas de Informação.
+
 <div>
   <h2>Currently working with</h2>
   <img align="center" alt="Alvaro-ubuntu" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg">
