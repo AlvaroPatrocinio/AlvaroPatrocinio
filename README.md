@@ -6,9 +6,10 @@
 
 <div>
   <h2>Currently working with</h2>
-  <img align="center" alt="Alvaro-ubuntu" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Alvaro-grafan" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/grafana/grafana-original.svg">
-   <img align="center" alt="Alvaro-mysql" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Alvaro-java" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
+   <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+    <img align="center" alt="Alvaro-sqlite" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
 <div style="display: inline_block">
   <h2>Languages</h2>
@@ -16,6 +17,7 @@
   <img align="center" alt="Alvaro-Cplusplus" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-line.svg">
      <img align="center" alt="Alvaro-Java" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
      <img align="center" alt="Alvaro-Py" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
+     <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     </div>
  
   <div>
@@ -24,8 +26,10 @@
   <div>
   <h2>Learning</h2>
 </div>
- <img align="center" alt="Alvaro-psql" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg">
+ <img align="center" alt="Alvaro-flutter" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Alvaro-kotlin" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Alvaro-as" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Alvaro-android" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg">
 </div>
 </div>
 <div style="display: inline_block">
