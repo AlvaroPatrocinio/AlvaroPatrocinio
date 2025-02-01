@@ -1,8 +1,8 @@
  <h2>Welcome to my github</h2>
 -Álvaro Patrocínio<br>
--21 Anos<br>
+-22 Anos<br>
 -Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.<br>
--Analista de Suporte.<br>
+-Atualmente Analista de Suporte na ION Sistemas, uma empresa finíssima de Automação de Força de Vendas.<br>
 
 <div>
   <h2>Currently working with</h2>
