@@ -1,7 +1,7 @@
  <h2>Bem-vindo ao meu Github!</h2>
 🐼 Álvaro Patrocínio<br>
 🧙‍♂️ 22 Anos  <br>
-🎓 Graduando em Sistemas de informação pela UFVJM, Universidade Federal dos Vales do Jequitinhonha e Mucuri.  <br>
+🎓 Graduando em Sistemas de informação pela UFVJM: Universidade Federal dos Vales do Jequitinhonha e Mucuri.  <br>
 🧡 Atualmente Analista de Suporte na ION Sistemas, uma empresa finíssima de Automação de Força de Vendas.  <br>
 📖 Um mineiro interessado no Desenvolvimento Mobile!  <br>
 
