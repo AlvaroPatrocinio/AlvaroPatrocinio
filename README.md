@@ -8,7 +8,7 @@
 <div>
   <h2>Atualmente trabalho com</h2>
   <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Alvaro-java" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Alvaro-java" height="30" width="100" src="http://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-plain-wordmark.svg">
    <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     <img align="center" alt="Alvaro-sqlite" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
