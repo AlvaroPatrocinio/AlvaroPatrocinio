@@ -17,7 +17,6 @@
   <div>
   <img align="center" alt="Alvaro-Cplusplus" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/cplusplus/cplusplus-line.svg">
      <img align="center" alt="Alvaro-Java" height="30" width="100" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
-     <img align="center" alt="Alvaro-Py" height="30" width="100" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
      <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     </div>
  
