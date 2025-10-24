@@ -7,7 +7,7 @@
 
 <div>
   <h2>Atualmente trabalho com</h2>
-  <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000">
+  <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://www.svgrepo.com/show/303303/oracle-6-logo.svg">
   <img align="center" alt="Alvaro-java" height="30" width="100" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
    <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     <img align="center" alt="Alvaro-sqlite" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
