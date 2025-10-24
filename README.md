@@ -1,4 +1,4 @@
- <h2>Bem-vindo ao meu Github!</h2>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a3cd7195-4f44-4371-b5ba-f7dd2d68f5b5" /> <h2>Bem-vindo ao meu Github!</h2>
 🐼 Álvaro Patrocínio<br>
 🧙‍♂️ 22 Anos  <br>
 🎓 Graduando em Sistemas de informação pela UFVJM: Universidade Federal dos Vales do Jequitinhonha e Mucuri.  <br>
@@ -8,7 +8,7 @@
 <div>
   <h2>Atualmente trabalho com</h2>
   <img align="center" alt="Alvaro-oracle" height="30" width="100" src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000">
-  <img align="center" alt="Alvaro-java" height="30" width="100" src="https://icons8.com/icon/2572/java">
+  <img align="center" alt="Alvaro-java" height="30" width="100" src="https://www.svgrepo.com/show/303388/java-4-logo.svg">
    <img align="center" alt="Alvaro-sql" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
     <img align="center" alt="Alvaro-sqlite" height="30" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
 </div>
