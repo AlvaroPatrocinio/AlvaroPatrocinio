@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a3cd7195-4f44-4371-b5ba-f7dd2d68f5b5" /> <h2>Bem-vindo ao meu Github!</h2>
+<h2>Bem-vindo ao meu Github!</h2>
 🐼 Álvaro Patrocínio<br>
 🧙‍♂️ 22 Anos  <br>
 🎓 Graduando em Sistemas de informação pela UFVJM: Universidade Federal dos Vales do Jequitinhonha e Mucuri.  <br>
